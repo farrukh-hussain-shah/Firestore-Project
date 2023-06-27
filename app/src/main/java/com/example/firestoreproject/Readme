@@ -1,0 +1,29 @@
+in this first we desing xml
+after
+get text from editTitle and editText and set to note
+and then
+and then set it  the collection in first... file
+
+we change Collection........ to docRef
+
+3rd Lecture:
+                It appears that you are creating a TextView and a Button called "load button.
+                " By setting an OnClickListener on the button, you can define the logic to fetch data
+                from Firestore and display it in the TextView. This allows you to learn how to retrieve
+                data from Firebase Firestore.
+
+4th Lecture:
+            The onStart() and onStop() methods are part of the Android Activity lifecycle.
+            The onStart() method is called when the activity becomes visible to the user,
+            and the onStop() method is called when the activity is no longer visible.
+            You can override these methods to handle tasks such as loading or saving
+            data when the app starts or stops.
+
+
+5th Lecture
+        we learn that how we can delete description and full note
+        in thisfirst we design UI and and we do logic in "dele"
+
+7th Lecture
+            in this lecture we can make a data class called "Note" in this
+            we can replace some code from onStart() and  onSave()

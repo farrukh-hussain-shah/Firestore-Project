@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FireStore Project</string>
+    <string name="save">Save</string>
+    <string name="button_load">Load</string>
+    <string name="load_button">Load Button</string>
+    <string name="update_title">update_title</string>
+    <string name="delete_description">Delete Description</string>
+    <string name="delete_note">Delete Note</string>
+</resources>
